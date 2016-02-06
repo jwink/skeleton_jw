@@ -17,3 +17,9 @@
 .text-centered {
   text-align: center;
 }
+
+.standard-checkbox, input[type="checkbox"] {
+  margin-right: 6px;
+  margin-bottom: 0px;
+  vertical-align: middle;
+}
